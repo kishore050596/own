@@ -13,6 +13,8 @@ public class UseCD {
 	CustomerDetails cd3=new CustomerDetails("monika",28,"vignesh@gmail.com",20000,1015845488445564l);
 	CustomerDetails cd4=new CustomerDetails("janu",21,"vignesh@gmail.com",20000,1015845488445564l);
 	CustomerDetails cd5=new CustomerDetails("ajith",23,"vignesh@gmail.com",20000,1015845488445564l);
+	CustomerDetails cd6=new CustomerDetails("kumar",23,"vignesh@gmail.com",20000,1015845488445564l);
+	CustomerDetails cd7=new CustomerDetails("bala",23,"vignesh@gmail.com",20000,1015845488445564l);
 	
 	HashMap<Integer,Object>hm=new HashMap<>();
 	
